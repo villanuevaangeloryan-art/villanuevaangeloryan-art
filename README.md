@@ -12,10 +12,6 @@ IT student focused on web development and cybersecurity. Aspiring SOC Analyst ex
 ![](https://streak-stats.demolab.com/?user=villanuevaangeloryan-art&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=villanuevaangeloryan-art&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=villanuevaangeloryan-art&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://komarev.com/ghpvc/?username=villanuevaangeloryan-art&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
